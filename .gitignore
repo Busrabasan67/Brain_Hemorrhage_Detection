@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Editor Settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data & Cache
+data/
+*.log
+.DS_Store
+
+# Temporary outputs
+*.tmp
